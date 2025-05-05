@@ -1,9 +1,3 @@
 ## CBW WORKSHOP YEAR
 
-[Workshop Website](YOUR WORKSHOP URL HERE)
-
-CITY, PROVINCE(S)  
-Instructors: INSTRUCTOR NAMES  
-TAs: TA NAMES
-
-OUTLINE HERE
+celina's workshop

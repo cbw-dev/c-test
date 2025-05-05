@@ -1,0 +1,14 @@
+workshop-info
+schedule
+pre-work
+meet-your-faculty
+name
+michelle-brazas-phd
+nia-hughes-sheher
+data-and-compute-setup
+course-data-downloads
+compute-setup
+module-1
+lecture
+downloads
+lab
